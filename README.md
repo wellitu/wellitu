@@ -1,5 +1,8 @@
-## Olá.
-Meu nome é Welliton de Melo.
-estou aprendendo JavaScript.
-Utilizo esse espaço para compartilhar os simples prjetos que faço.
-Você pode emtrar em contato comigo pelo meu email de estudante: 00001127447531sp@al.educacao.sp.gov.br
+## Olá, bem vindo ao meu perfi!
+- Estou me desenvolvendo na linguagem JavaScript
+- Estou estudando na Alura
+- Vou utilizar esse espaço para compartilhar meus projetos
+## Você pode entrar em contato comigo pelo meu email!
+
+00001127447531sp@al.educacao.sp.gov.br
+
